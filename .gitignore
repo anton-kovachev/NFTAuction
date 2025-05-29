@@ -13,3 +13,7 @@ states/
 # Optional
 .env
 .env.local
+
+# Node Modules
+node_modules/
+.vscode/
